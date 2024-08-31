@@ -17,6 +17,7 @@ The objective of this project is to analyze Zomato data to extract meaningful in
 
 Here is a screenshot of the results from the analysis:
 
+![Results Screenshot]("C:\Users\x3rit\Desktop\projects\Zomato Data Anlysis\screenshots\Dataframe.png")
 
 ## How to Run the Project
 
